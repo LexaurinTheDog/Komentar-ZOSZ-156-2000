@@ -151,7 +151,6 @@ Místní dokument zásad výslovně pojmenovává:
 
 Typické střety zachycené v kapitolách: účinnost dozoru × přiměřenost (u § 11 kapitola ponechává otevřené, „zda každá, i nepodstatná odchylka vede k odejmutí (zásada přiměřenosti).“); informování o riziku × mlčenlivost (k § 20b: „Povinnost má přednost před mlčenlivostí zaměstnanců (§ 17 odst. 7).“); ochrana dříve ověřených výrobků × trvalá bezpečnost (k § 23: „fikce ověření se týká stavu výrobku při vyznačení; neznamená, že výrobek trvale splňuje stanovené technické požadavky (§ 4 odst. 1 — po dobu používání).“).
 
-
 **Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty, intenzitu zásahu, možné šetrnější řešení (odstupňování § 20a odst. 1, 2, 3 a § 20b odst. 1, 2) a důvod priority v konkrétním skutkovém a procesním kontextu.
 
 **Místní opora.** [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Účel, chráněné hodnoty a právní zásady](HLOUBKOVY-VYKLAD.md)

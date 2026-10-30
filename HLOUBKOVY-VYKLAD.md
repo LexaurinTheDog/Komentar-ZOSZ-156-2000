@@ -73,7 +73,6 @@ Zásadové uzly, které místní soubor [ZASADY.md](ZASADY.md) dokládá doslovn
 9. Informování o riziku a transparentnost rozhodování (§ 17 odst. 7, § 19a odst. 5, § 20b odst. 3, § 20c).
 10. Nevyhnutelnost sankce (§ 22a, § 22b odst. 3 a 4).
 
-
 **Syntéza — napětí mezi zásadami.** Nejvýraznější střet probíhá mezi zásadou 7 (účinnost dozoru: neohlášená kontrola, vyloučený odkladný účinek, konečné rozhodnutí předsedy o námitkách) a zásadou 8 (přiměřenost: náklady jen při negativním výsledku, vrácení v neporušeném stavu, odstupňování zákazu distribuce a stažení). Druhým napětím je poměr zásady 9 (informování o vážném riziku) a mlčenlivosti zaměstnanců Úřadu podle § 17 odst. 7; kapitola k § 20b jej řeší ve prospěch informační povinnosti. Třetím je vztah zásady 2 (trvalá bezpečnost) a zásady 5 (fikce ověření starších výrobků): kapitola k § 23 výslovně upozorňuje, že fikce ověření neznamená trvalé splnění požadavků.
 
 **Hloubkový test.**
